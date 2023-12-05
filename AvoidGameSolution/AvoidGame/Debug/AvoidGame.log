@@ -1,2 +1,11 @@
 ﻿  Game.cpp
+C:\Users\User\Documents\AvoidGame\AvoidGameSolution\AvoidGame\Game.cpp(91,20): warning C4018: '<': signed/unsigned mismatch
+C:\Users\User\Documents\AvoidGame\AvoidGameSolution\AvoidGame\Game.cpp(96,20): warning C4018: '<': signed/unsigned mismatch
+C:\Users\User\Documents\AvoidGame\AvoidGameSolution\AvoidGame\Game.cpp(191,30): warning C4018: '<': signed/unsigned mismatch
+C:\Users\User\Documents\AvoidGame\AvoidGameSolution\AvoidGame\Game.cpp(202,20): warning C4018: '<': signed/unsigned mismatch
+C:\Users\User\Documents\AvoidGame\AvoidGameSolution\AvoidGame\Game.cpp(215,20): warning C4018: '<': signed/unsigned mismatch
+C:\Users\User\Documents\AvoidGame\AvoidGameSolution\AvoidGame\Game.cpp(244,24): warning C4018: '<': signed/unsigned mismatch
+C:\Users\User\Documents\AvoidGame\AvoidGameSolution\AvoidGame\Game.cpp(297,20): warning C4018: '<': signed/unsigned mismatch
+C:\Users\User\Documents\AvoidGame\AvoidGameSolution\AvoidGame\Game.cpp(301,20): warning C4018: '<': signed/unsigned mismatch
+C:\Users\User\Documents\AvoidGame\AvoidGameSolution\AvoidGame\Game.cpp(310,21): warning C4018: '<': signed/unsigned mismatch
   AvoidGame.vcxproj -> C:\Users\User\Documents\AvoidGame\AvoidGameSolution\Debug\AvoidGame.exe

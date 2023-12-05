@@ -28,7 +28,7 @@ void OpenWindow() {
 		}
 
 		//»öÄ¥ÇÏ±â
-		Window.clear(Color(30, 155, 90, 255));
+		Window.clear(Color(99, 176, 242, 255));
 		Window.display();
 	}
 

@@ -10,13 +10,17 @@
 
 int main()
 {
+	// Random value start : First Setup
+	// use Time value : Change First Setup every starting
+	srand(time(NULL));
+
 	// start up
 	Game Avoid;
 
 	//Game Loop
 	while (Avoid.Running()) {
 		//Update
-		Avoid.EventHandler();
+		Avoid.Update();
 
 		//Render
 		Avoid.Render();
